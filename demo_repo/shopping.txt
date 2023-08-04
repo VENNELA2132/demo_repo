@@ -4,7 +4,7 @@ red apples
 bananas
 yogurt
 milk
-bread
+wheat bread
 cereal
 12 eggs
 bacon
